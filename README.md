@@ -6,7 +6,7 @@ Este projeto simula uma aplicação do mercado de trabalho, utilizando tecnologi
 pagamento entre outras paginas utilizadas pros usuários comuns, e telas de administração para os donos da aplicação.
 ## 📸 Page-Preview
 
-<img src="Front-end/src/assets/preview-web">
+<img src="devburger-interface/src/assets/preview-web">
 <br>
 
 ### 👩🏻‍💻 Principais Tecnologias Utilizadas
