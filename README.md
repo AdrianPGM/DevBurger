@@ -2,8 +2,7 @@
 
 # DevBurguer
 
-Este projeto simula uma aplicação do mercado de trabalho, utilizando tecnologias e conceitos utilizados no mundo. Esta aplicação á uma **Hamburgueria** completa carregada com telas de menu, cardápio, 
-pagamento entre outras paginas utilizadas pros usuários comuns, e telas de administração para os donos da aplicação.
+Este projeto simula uma aplicação real do mercado de trabalho, utilizando tecnologias amplamente utilizadas no desenvolvimento moderno, como HTML, CSS, JavaScript, React, além de diversas bibliotecas e frameworks. A aplicação é uma hamburgueria completa, com telas dedicadas para o público geral, incluindo menu, cardápio, pagamento, entre outras funcionalidades, além de um painel administrativo exclusivo para os proprietários, garantindo
 ## 📸 Page-Preview
 
 <img src="devburger-interface/src/assets/preview-web">
