@@ -47,9 +47,7 @@
   background: #0055DE;
   font-family: Arial, sans-serif;
 
-  color: $ {
-    props=>props.theme.white
-  }
+  color: white
 
   ;
   border-radius: 4px;
@@ -81,9 +79,7 @@
 }
 
 .spinner {
-  color: $ {
-    props=>props.theme.white
-  }
+  color: white
 
   ;
   font-size: 22px;
@@ -235,9 +231,7 @@ td {
   text-align: center;
   background: #0055DE;
 
-  color: $ {
-    props=>props.theme.white
-  }
+  color: white
 
   ;
   border-radius: 4px;
